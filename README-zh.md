@@ -4,40 +4,40 @@
 
 - [描述](#描述)
 - [安裝](#安裝)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [History](#history)
-- [License](#license)
+- [使用](#使用)
+- [貢獻](#貢獻)
+- [歷史](#歷史)
+- [版權](#版權)
 
 ## 描述
-Collect multiple texts from the clipboard on windows.
+在Windows收集多個剪貼簿文字。
 
 ## 安裝
 
-1. Download the zip file [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUS1lOGxTbXFSVFE/view?usp=sharing).
-2. Extract it and execute the executable file **perrots-batch-copy.exe**.
+1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUS1lOGxTbXFSVFE/view?usp=sharing).
+2. 解壓縮並執行執行檔 **perrots-batch-copy.exe**.
 
-## Usage
+## 使用
 
-1. Clicking the executable file to run it. It will open the main window and show a tray icon to your tray bar.
-2. When the user presses a set hot key **"Control+C"**, to add a text of the clipbard into the listview of the main window.
-3. You can press the **"Clear All"** button to clear all items in the listview.
-4. You can press the **"Copy All"** button to copy all items. And a text of all items will store into the system's clipbard.
-5. Every copy action will show a tooltip beside your mouse point. The tooltip text is your copied data.
-6. Just click the top right x button to exit the application.
+1. 點擊執行檔去執行它。它將出現主視窗並顯示一個常駐圖示到你的常駐列。
+2. 當使用者按下一組熱鍵 **"Control+C"**, 去新增一個剪貼簿文字到主視窗的列表。
+3. 你可以按下**"Clear All"** 按鈕去清除所有列表的項目。
+4. 你可以按下 **"Copy All"** 按鈕去複製所有項目。且所有項目的一串文字將儲存至系統剪貼簿。
+5. 每個複製動作將顯示一個提示在你的滑鼠點旁邊。這個提示文字是你的複製資料。
+6. 只要按下右上角的x按鈕，就能離開程式。
 
-## Contributing
+## 貢獻
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+1. 創件分支!
+2. 建立你的特色支線: `git checkout -b my-new-feature`
+3. 上傳你的更改: `git commit -am 'Add some feature'`
+4. 推到支線: `git push origin my-new-feature`
+5. 提交一個拉的請求 :D
 
-## History
+## 歷史
 
-1. 7/14 main functions completed!
+1. 7/14 主功能完成!
 
-## License
+## 版權
 
-GNU License
+GNU 版權
