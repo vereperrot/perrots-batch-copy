@@ -4,6 +4,7 @@
 
 - [描述](#描述)
 - [安裝](#安裝)
+- [截圖](#截圖)
 - [使用](#使用)
 - [貢獻](#貢獻)
 - [歷史](#歷史)
@@ -16,6 +17,9 @@
 
 1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUS1lOGxTbXFSVFE/view?usp=sharing).
 2. 解壓縮並執行執行檔 **perrots-batch-copy.exe**.
+ 
+## 截圖
+![perrots-batch-copy 主視窗](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYcjJ4ZzFLbDRPakU)
 
 ## 使用
 
