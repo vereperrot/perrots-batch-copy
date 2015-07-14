@@ -4,6 +4,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
+- [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [History](#history)
@@ -16,6 +17,9 @@ Collect multiple texts from the clipboard on windows.
 
 1. Download the zip file [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUS1lOGxTbXFSVFE/view?usp=sharing).
 2. Extract it and execute the executable file **perrots-batch-copy.exe**.
+
+## Screenshot
+![perrots-batch-copy main window](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYcjJ4ZzFLbDRPakU)
 
 ## Usage
 
