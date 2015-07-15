@@ -30,7 +30,7 @@ Collect multiple texts from the clipboard on windows.
 5. Selecting the menu item **Edit| Copy All** from the menu bar to copy all clipboard text into the system's clipboard. Or pressing hot key **Ctrl+C** to do this.
 6. Selecting the menu item **Edit| Select All** from the menu bar to select all items in the listview. Or pressing hot key **Ctrl+A** to do it.
 7. Selecting the menu item **Edit| Delete Selected** from the menu bar to delete selected items of the listview. Or pressing hot key **Ctrl+D** or **Delete** to delete selected items.
-8. Selecting the menu item **Edit| Copy Selected** from the menu bar to copy selected items of the listview. Or pressing **Ctrl+Y** to do this.
+8. Selecting the menu item **Edit| Copy Selected** from the menu bar to copy selected items of the listview to the system's clipboard. Or pressing **Ctrl+Y** to do this.
 9. Selecting the menu item **Tools| Enable Batch Copy** from the menu bar to switch the batch copy function. Or pressing **Win+B** to switch this function.
 10. Selecting the menu item **Tools| Enable Half Transparent** from the menu bar to switch half transparent of the main window. Or pressing **Ctrl+T** to switch this function.
 11. Selecting the menu item **?| Help Contents** from the menu bar to open the help url link in the web browser. Or pressing **Shift+F1** to do it.
