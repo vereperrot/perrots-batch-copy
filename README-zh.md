@@ -15,20 +15,30 @@
 
 ## 安裝
 
-1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUS1lOGxTbXFSVFE/view?usp=sharing).
+1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUldqeHhxcVRJN0U/view?usp=sharing).
 2. 解壓縮並執行執行檔 **perrots-batch-copy.exe**.
  
 ## 截圖
-![perrots-batch-copy 主視窗](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYcjJ4ZzFLbDRPakU)
+![perrots-batch-copy 主視窗](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYZWNRcUY3TVVvYjg)
 
 ## 使用
 
 1. 點擊執行檔去執行它。它將出現主視窗並顯示一個常駐圖示到你的常駐列。
-2. 當使用者按下一組熱鍵 **"Control+C"**, 去新增一個剪貼簿文字到主視窗的列表。
-3. 你可以按下**"Clear All"** 按鈕去清除所有列表的項目。
-4. 你可以按下 **"Copy All"** 按鈕去複製所有項目。且所有項目的一串文字將儲存至系統剪貼簿。
-5. 每個複製動作將顯示一個提示在你的滑鼠點旁邊。這個提示文字是你的複製資料。
-6. 只要按下右上角的x按鈕，就能離開程式。
+2. 從選單中選擇選項 **File| Save As**，去儲存所有複製文字到一個文字檔。或按下快速鍵**Ctrl+S**去做這件事。
+3. 從選單中選擇選項**File| Exit** ，去離開程式。或按下快速鍵**Alt+F4**去做這件事。
+4. 從選單中選擇選項**Edit| Clear All**，去清除所有列表中的項目。或按下快速鍵**Ctrl+L**去做這件事。
+5. 從選單中選擇選項**Edit| Copy All** 去複製所有列表上的文字到系統剪貼簿。或按下快速鍵 **Ctrl+C** 去做這件事。
+6. 從選單中選擇選項**Edit| Select All** ，去選擇所有列表項目。或按下快速鍵**Ctrl+A** 去做這件事。
+7. 從選單中選擇選項**Edit| Delete Selected**去刪除列表上所選擇的項目。或按下快速鍵**Ctrl+D**或 **Delete** 去做這件事。
+8. 從選單中選擇選項**Edit| Copy Selected** ，去複製列表上所選擇的項目到系統剪貼簿。或按下快速鍵**Ctrl+Y** 去做這件事。
+9. 從選單中選擇選項**Tools| Enable Batch Copy** ，去切換批次複製功能。或按下快速鍵 **Win+B** 去切換這個功能。
+10. 從選單中選擇選項**Tools| Enable Half Transparent**，去切換主視窗為半透明。或按下快速鍵**Ctrl+T**去切換這個功能。
+11. 從選單中選擇選項**?| Help Contents** ，去瀏覽器打開幫助連結。或按下快速鍵 **Shift+F1** 去做這件事。
+12. 從選單中選擇選項**?| About Perrot's Batch Copy** ，去瀏覽器打開關於連結。或按下快速鍵**F1**去做這件事。
+13. 按下 **Ctrl** or **Shift** 鍵去選擇更多列表項目。
+14. 按下組合鍵**Ctrl+Shift+[NO]**，去貼上第[NO]個項目文字到現在的編輯視窗。NO是從1到9。
+15. 每個複製動作將顯示一個提示在你的滑鼠點旁邊。這個提示文字是你的複製資料。
+16. 只要按下右上角的x按鈕，就能離開程式。
 
 ## 貢獻
 
@@ -40,7 +50,18 @@
 
 ## 歷史
 
-1. 7/14 主功能完成!
+- **7/14 V1.0.0**
+- [+] 複製所有列表項目到系統剪貼簿。
+- [+] 清除所有列表項目。
+- **7/16 V1.8.0**
+- [+] 儲存所有項目到使用者指定的文字檔。
+- [+] 離開程式。
+- [+] 選擇所有列表項目。
+- [+] 複製選擇的列表項目到系統剪貼簿。
+- [+] 刪除選擇的列表項目。
+- [+] 按下Win+B按鍵去切換批次複製功能。
+- [+] 按下Ctrl+T按鍵去切換視窗透明功能。
+- [+] 按下Ctrl+Shift+[1~9]按鍵去貼上第[NO]個列表項目到現在的編輯區域。
 
 ## 版權
 
