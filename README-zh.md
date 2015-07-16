@@ -16,15 +16,16 @@
 
 ## 安裝
 
-1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYUldqeHhxcVRJN0U/view?usp=sharing).
+1. 下載壓縮檔 [perrots-batch-copy.zip](https://drive.google.com/file/d/0B9-PjjwL3-xYck52Zk4tdl9qYUU/view?usp=sharing).
 2. 解壓縮並執行執行檔 **perrots-batch-copy.exe**.
  
 ## 截圖
-![perrots-batch-copy 主視窗](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYZWNRcUY3TVVvYjg)
+![perrots-batch-copy 主視窗](https://drive.google.com/uc?export=download&id=0B9-PjjwL3-xYVVFZYjVBYnp5NkU)
 
 ## 使用
 
 1. 點擊執行檔去執行它。它將出現主視窗並顯示一個常駐圖示到你的常駐列。
+2. 從選單中選擇選項 **File| Open**去載入一個文字檔。或按下快速鍵 **Ctrl+O**去做這件事。
 2. 從選單中選擇選項 **File| Save As**，去儲存所有複製文字到一個文字檔。或按下快速鍵**Ctrl+S**去做這件事。
 3. 從選單中選擇選項**File| Exit** ，去離開程式。或按下快速鍵**Alt+F4**去做這件事。
 4. 從選單中選擇選項**Edit| Clear All**，去清除所有列表中的項目。或按下快速鍵**Ctrl+L**去做這件事。
@@ -57,6 +58,7 @@ Shift+F1 | 瀏覽器打開幫助連結
 F1 | 瀏覽器打開關於連結
 Ctrl or Shift | 選擇更多列表項目
 Ctrl+Shift+[1~9] | 貼上第[1~9]個項目文字到現在的編輯視窗
+雙擊左鍵|在列表上的項目雙擊左鍵，去複製此項目到剪貼簿。
 
 ## 貢獻
 
@@ -80,6 +82,15 @@ Ctrl+Shift+[1~9] | 貼上第[1~9]個項目文字到現在的編輯視窗
 - [+] 按下Win+B按鍵去切換批次複製功能。
 - [+] 按下Ctrl+T按鍵去切換視窗透明功能。
 - [+] 按下Ctrl+Shift+[1~9]按鍵去貼上第[NO]個列表項目到現在的編輯區域。
+- **7/16 V1.15.1**
+- [+]新增圖示到選項。
+- [+]在工具列顯示提示。
+- [*]當程式執行，使用delete鍵去刪除一些檔案沒有作用在系統中。修正這個問題。
+- [+]建立一個工具列。
+- [+]儲存檔案為 utf8 格式。
+- [+]建立一個載入檔案功能去載入文字檔。使用熱鍵 Ctrl+O。
+- [+]在列表項目上雙擊去複製項目到剪貼簿。
+- [+]當視窗顯示後，載入之前的複製文字。
 
 ## 版權
 
