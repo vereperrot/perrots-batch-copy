@@ -6,6 +6,7 @@
 - [Installation](#installation)
 - [Screenshot](#screenshot)
 - [Usage](#usage)
+- [Hot Key Table](#hot key table)
 - [Contributing](#contributing)
 - [History](#history)
 - [License](#license)
@@ -39,6 +40,23 @@ Collect multiple texts from the clipboard on windows.
 14. Pressing combination keys **Ctrl+Shift+[NO]** to paste the text of [NO]th item to the current edit area. NO is from 1 to 9.
 15. Every copy action will show a tooltip beside your mouse point. The tooltip text is your copied data.
 16. Just click the top right x button to exit the application.
+
+## Hot Key Table
+Hot Key | Function
+------------ | -------------
+Ctrl+S | Save all clipboard text into a text file
+Alt+F4 | Exit the application
+Ctrl+L | Clear all clipboard text in the listview
+Ctrl+C | Copy all clipboard text into the system's clipboard
+Ctrl+A | Select all items of the listview
+Ctrl+D | Delete selected items of the listview
+Ctrl+Y | Copy selected items of the listview to the system's clipboard
+Win+B | Switch the batch copy function
+Ctrl+T | Switch half transparent of the main window
+Shift+F1 | Open the help url link in the web browser
+F1 | Open the about link in the web browser
+Ctrl or Shift | Select more than one item in the listview
+Ctrl+Shift+[1~9] | Paste the text of [1~9]th item to the current edit area
 
 ## Contributing
 
